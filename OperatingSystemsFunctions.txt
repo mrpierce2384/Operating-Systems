@@ -1,1 +1,2 @@
 Operating systems have what is called a kernel. The kernel manages all of the hardware of a computer. It also manages basic system programs. These managed programs are used to boot up the OS and configure it.
+Another OS function is managing the Main Memory. It keeps track of which bytes of memory are used by which user program. The OS also decides the order in which process are granted access to memory, and for how long.
